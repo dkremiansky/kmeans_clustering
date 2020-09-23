@@ -1,2 +1,2 @@
 # kmeans_clustring
- project on a course "Introduction to Data Science"
+ project on the course "Introduction to Data Science"
